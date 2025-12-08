@@ -8,4 +8,6 @@
 888    Y88b "Y888888  "Y8888  888     888  "Y888 888  888  "Y8888  888  888 888888888  d88P
 
 
-# Ayush Bhattarai (Kaerithen27)
+# Ayush Bhattarai
+
+**Pseudonym ->** *Kaerithen27*
