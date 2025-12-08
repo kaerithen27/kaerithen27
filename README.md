@@ -1,5 +1,3 @@
-# Software Engineer — Web • Mobile • Desktop
-
 <div align="center">
 <pre style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
 
@@ -19,7 +17,7 @@
 
 > Learning as I grow, one concept at a time.
 
-## Basic Details
+## 🪪 Basic Details
 
 - Name: **Ayush Bhattarai**
 - Pseudonym: **Kaerithen27**
@@ -29,7 +27,7 @@
   - **[Codeberg](https://codeberg.org/kaerithen27)**
   - **[GitHub](https://github.com/kaerithen27/kaerithen27)**
 
-## About Me
+## 📖 About Me
 
 I build systems that are *minimal*, *predictable*, and *long-term maintainable*.
 My coding philosophy is simple:
@@ -44,7 +42,7 @@ Everything I write must be easy to read today and easier to extend tomorrow.
 
 My goal is to engineer software that is predictable, scalable, and free of unnecessary complexity.
 
-## 📦 Language & Tools
+## 🛠️ Language & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -52,8 +50,6 @@ My goal is to engineer software that is predictable, scalable, and free of unnec
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-## 🚀 Tech Stack (2025)
 
 **Language:**
 
