@@ -1,4 +1,7 @@
+# Software Engineer — Web • Mobile • Desktop
+
 <div align="center">
+<pre style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
 
 ```TypeScript
 888    d8P                            d8b 888    888                         .d8888b.  8888888888
@@ -11,8 +14,95 @@
 888    Y88b "Y888888  "Y8888  888     888  "Y888 888  888  "Y8888  888  888 888888888  d88P
 ```
 
+</pre>
 </div>
 
-# Ayush Bhattarai
+> Learning as I grow, one concept at a time.
 
-**Pseudonym ->** *Kaerithen27*
+## Basic Details
+
+- Name: **Ayush Bhattarai**
+- Pseudonym: **Kaerithen27**
+- Contact
+  - **[Email](mailto://ayushbhattarai27@proton.me)**
+- Git Profiles
+  - **[Codeberg](https://codeberg.org/kaerithen27)**
+  - **[GitHub](https://github.com/kaerithen27/kaerithen27)**
+
+## About Me
+
+I build systems that are *minimal*, *predictable*, and *long-term maintainable*.
+My coding philosophy is simple:
+
+- Clarity over cleverness
+- Explicit types over assumptions
+- Small modules over large abstractions
+- Feature-based structure over scattered logic
+- Consistency as a compounding advantage
+
+Everything I write must be easy to read today and easier to extend tomorrow.
+
+My goal is to engineer software that is predictable, scalable, and free of unnecessary complexity.
+
+## 📦 Language & Tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## 🚀 Tech Stack (2025)
+
+**Language:**
+
+- TypeScript
+
+**Frontend:**
+
+- React
+- Tailwind CSS
+
+**Backend:**
+
+- Fastify
+- PostgreSQL
+- OpenAPI
+- Prisma ORM
+- Bun Runtime
+
+**Mobile:**
+
+- React Native
+
+**Desktop:**
+
+- Tauri
+
+**Testing & Quality:**
+
+- Vitest
+- Biome
+
+**Architecture:**
+
+- Feature-Based Modular Architecture
+
+## 🧰 Toolchain
+
+- VS Code (Tokyo Night)
+- Bruno (API Testing)
+- TablePlus (DB GUI)
+- Docker Desktop (Containers)
+- Figma (Design)
+- Codeberg (Primary Git Hosting)
+- GitHub (Portfolio Mirror)
+
+## 📚 Focus Areas
+
+- Clean engineering
+- Design systems
+- Systems thinking
+- Long-term maintainable architecture
+- Cross-platform development (web, mobile, desktop)
