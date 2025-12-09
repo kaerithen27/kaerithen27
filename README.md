@@ -63,14 +63,20 @@ My goal is to engineer software that is predictable, scalable, and free of unnec
 **Backend:**
 
 - Fastify
+- SQL
 - PostgreSQL
-- OpenAPI
-- Prisma ORM
-- Bun Runtime
+
+**Runtime & Tooling:**
+
+- Bun (runtime, package manager, bundler)
+- OpenAPI (API contracts)
+- Drizzle Kit (migrations only)
+- Vitest (testing)
+- Biome (formatting & linting)
 
 **Mobile:**
 
-- React Native
+- React Native (CLI)
 
 **Desktop:**
 
