@@ -29,82 +29,50 @@
 
 ## 📖 About Me
 
-I build systems that are *minimal*, *predictable*, and *long-term maintainable*.
-My coding philosophy is simple:
+Software engineer building minimal, predictable software with explicit contracts, small modules, and architectures designed to stay readable and maintainable over time.
 
-- Clarity over cleverness
-- Explicit types over assumptions
-- Small modules over large abstractions
-- Feature-based structure over scattered logic
-- Consistency as a compounding advantage
-
-Everything I write must be easy to read today and easier to extend tomorrow.
-
-My goal is to engineer software that is predictable, scalable, and free of unnecessary complexity.
+Writes essays and stories, builds software systems, studies human behavior, and structures life around simplicity, autonomy, and long-term freedom.
 
 ## 🛠️ Language & Tools
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
+![NestJS](https://img.shields.io/badge/NestJS-gray?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=E0234E)
+![Drizzle](https://img.shields.io/badge/Drizzle-gray?style=for-the-badge&logo=drizzle&logoColor=black&labelColor=C5F74F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-gray?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38BDF8)
 
-**Language:**
-
-- TypeScript
-
-**Frontend:**
-
-- Next.js
-- Tailwind CSS
-
-**Backend:**
-
-- Fastify
-- Drizzle
-- PostgreSQL
-
-**Runtime & Tooling:**
-
-- Node.js (runtime)
-- PNPM (package manager)
-- OpenAPI (API contracts)
-- Drizzle Kit (migrations only)
-- Vitest (testing)
-- Biome (formatting & linting)
-
-**Mobile:**
-
-- React Native (CLI)
-
-**Desktop:**
-
-- Tauri
-
-**Architecture:**
-
-- Modular Monolith Architecture
+- **Language:** *TypeScript*
+- **Frontend:** *Next.JS*
+- **Backend:** *NestJS*
+- **Database:** *PostgreSQL* (Docker) *+ SQLite*
+- **Mobile:** *React Native* (not expo)
+- **Desktop:** *Tauri*
+- **Styling/CSS:** *Tailwind CSS*
 
 ## 🧰 Toolchain
 
-![Apple](https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=white)
-![Bruno](https://img.shields.io/badge/bruno-F4AA41?style=for-the-badge&logo=Bruno&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Codeberg](https://img.shields.io/badge/codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
+![Fedora](https://img.shields.io/badge/Fedora-gray?style=for-the-badge&logo=fedora&logoColor=white&labelColor=51A2DA)
+![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
+![Node.js](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js&logoColor=white&labelColor=5FA04E)
+![PNPM](https://img.shields.io/badge/pnpm-gray?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=F69220)
+![VSCodium](https://img.shields.io/badge/VSCodium-gray?style=for-the-badge&logo=VSCodium&logoColor=white&labelColor=2F80ED)
+![Bruno](https://img.shields.io/badge/Bruno-gray?style=for-the-badge&logo=bruno&logoColor=black&labelColor=F4AA41)
+![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+![Figma](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
+![Codeberg](https://img.shields.io/badge/Codeberg-gray?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=2185D0)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 
-- Apple (Base Ecosystem)
-- VSCodium (Default Dark Theme)
+- Linux + Android (Base Ecosystem)
+- Node.js (TypeScript Runtime)
+- PNPM (TypeScript Package Manager)
+- VSCodium (Tokyo Night Theme)
 - Bruno (API Testing)
 - PGAdmin/PhpMyAdmin/Compass (DB GUI)
 - Docker (Containers)
-- OrbStack (Containers GUI)
+- Docker Desktop (Containers GUI)
 - Figma (Design)
 - Codeberg (Primary Git Hosting)
 - GitHub (Portfolio Mirror)
@@ -115,4 +83,4 @@ My goal is to engineer software that is predictable, scalable, and free of unnec
 - Design systems
 - Systems thinking
 - Long-term maintainable architecture
-- Cross-platform development (web, mobile, desktop)
+- Cross-platform development (web, mobile, desktop, cli)
