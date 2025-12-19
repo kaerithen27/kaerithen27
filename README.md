@@ -1,3 +1,5 @@
+# Ayush Bhattarai (Kaerithen 27)
+
 <div align="center">
 <pre style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
 
@@ -19,61 +21,60 @@
 
 ## 🪪 Basic Details
 
-- Name: **Ayush Bhattarai**
-- Pseudonym: **Kaerithen27**
-- Contact
-  - **[Email](mailto://ayushbhattarai27@proton.me)**
-- Git Profiles
-  - **[Codeberg](https://codeberg.org/kaerithen27)**
-  - **[GitHub](https://github.com/kaerithen27/kaerithen27)**
+<div style="display: flex; align-items: center; gap: 24px; margin: 24px 0;">
+  <img src="Logo.png" alt="Logo" width="80" style="border-radius: 8px;">
+  <div style="flex: 1;">
+    <h1 style="margin: 0; font-size: 28px;">Ayush Bhattarai</h1>
+    <p style="margin: 4px 0; color: #64748b;">Pseudonym: Kaerithen27</p>
+    <p style="margin: 8px 0;">
+      <a href="mailto:ayushbhattarai27@proton.me" style="text-decoration: none; color: #3b82f6;">Email</a> •
+      <a href="https://codeberg.org/kaerithen27" target="_blank" style="text-decoration: none; color: #64748b;">Codeberg</a> •
+      <a href="https://github.com/kaerithen27/kaerithen27" target="_blank" style="text-decoration: none; color: #64748b;">GitHub</a>
+    </p>
+  </div>
+  <img src="Cover.png" alt="Cover" width="240" style="border-radius: 12px; object-fit: cover;">
+</div>
 
 ## 📖 About Me
 
-Software engineer building minimal, predictable software with explicit contracts, small modules, and architectures designed to stay readable and maintainable over time.
-
-Writes essays and stories, builds software systems, studies human behavior, and structures life around simplicity, autonomy, and long-term freedom.
+Systems Architect building production-grade software that endures real-world constraints. I integrate data science for intelligence and security for enforcement, prioritizing structural permanence, coherence, and long-term maintainability over novelty.
 
 ## 🛠️ Language & Tools
 
-![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
-![NestJS](https://img.shields.io/badge/NestJS-gray?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=E0234E)
-![Drizzle](https://img.shields.io/badge/Drizzle-gray?style=for-the-badge&logo=drizzle&logoColor=black&labelColor=C5F74F)
+![Rust](https://img.shields.io/badge/rust-gray?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+![Leptos](https://img.shields.io/badge/leptos-gray?style=for-the-badge&logo=leptos&logoColor=black&labelColor=EF3939)
+![Actix](https://img.shields.io/badge/actix-gray?style=for-the-badge&logo=actix&logoColor=white&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-gray?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57)
+![Tauri](https://img.shields.io/badge/tauri-gray?style=for-the-badge&logo=tauri&logoColor=white&labelColor=24C8D8)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38BDF8)
 
-- **Language:** *TypeScript*
-- **Frontend:** *Next.JS*
-- **Backend:** *NestJS*
-- **Database:** *PostgreSQL* (Docker) *+ SQLite*
-- **Mobile:** *React Native* (not expo)
+- **Language:** *Rust*
+- **Frontend:** *Leptos*
+- **Backend:** *Actix*
+- **Database:** *PostgreSQL* (Docker) *+ SQLite* (Embeded)
+- **Mobile:** *Rust + Tauri UI*
 - **Desktop:** *Tauri*
 - **Styling/CSS:** *Tailwind CSS*
+- **Database Queries & Migration:** *SQLx*
 
 ## 🧰 Toolchain
 
-![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
-![Fedora](https://img.shields.io/badge/Fedora-gray?style=for-the-badge&logo=fedora&logoColor=white&labelColor=51A2DA)
-![Android](https://img.shields.io/badge/Android-gray?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
-![Node.js](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js&logoColor=white&labelColor=5FA04E)
-![PNPM](https://img.shields.io/badge/pnpm-gray?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=F69220)
-![VSCodium](https://img.shields.io/badge/VSCodium-gray?style=for-the-badge&logo=VSCodium&logoColor=white&labelColor=2F80ED)
+![Apple](https://img.shields.io/badge/apple-gray?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000)
+![VSCodium](https://img.shields.io/badge/vscodium-gray?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=2F80ED)
 ![Bruno](https://img.shields.io/badge/Bruno-gray?style=for-the-badge&logo=bruno&logoColor=black&labelColor=F4AA41)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
-![Figma](https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
+![Penpot](https://img.shields.io/badge/penpot-gray?style=for-the-badge&logo=penpot&logoColor=white&labelColor=000000)
 ![Codeberg](https://img.shields.io/badge/Codeberg-gray?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=2185D0)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 
-- Linux + Android (Base Ecosystem)
-- Node.js (TypeScript Runtime)
-- PNPM (TypeScript Package Manager)
-- VSCodium (Tokyo Night Theme)
+- Apple (Base Ecosystem)
+- VSCodium (Nord Theme)
 - Bruno (API Testing)
-- PGAdmin/PhpMyAdmin/Compass (DB GUI)
+- DBeaver CE (DB GUI)
 - Docker (Containers)
-- Docker Desktop (Containers GUI)
-- Figma (Design)
+- OrbStack (Containers GUI)
+- Penpot (Design)
 - Codeberg (Primary Git Hosting)
 - GitHub (Portfolio Mirror)
 
