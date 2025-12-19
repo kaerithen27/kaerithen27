@@ -49,19 +49,19 @@ Systems Architect building production-grade software that endures real-world con
 ![Tauri](https://img.shields.io/badge/tauri-gray?style=for-the-badge&logo=tauri&logoColor=white&labelColor=24C8D8)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-gray?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38BDF8)
 
-- **Language:** *Rust*
-- **Frontend:** *Leptos*
-- **Backend:** *Actix*
-- **Database:** *PostgreSQL* (Docker) *+ SQLite* (Embeded)
-- **Mobile:** *Rust + Tauri UI*
-- **Desktop:** *Tauri*
-- **Styling/CSS:** *Tailwind CSS*
-- **Database Queries & Migration:** *SQLx*
+- **Language:** _Rust_
+- **Frontend:** _Leptos_
+- **Backend:** _Actix_
+- **Database:** _PostgreSQL_ (Docker) _+ SQLite_ (Embeded)
+- **Mobile:** _Rust + Tauri UI_
+- **Desktop:** _Tauri_
+- **Styling/CSS:** _Tailwind CSS_
+- **Database Queries & Migration:** _SQLx_
 
 ## 🧰 Toolchain
 
 ![Apple](https://img.shields.io/badge/apple-gray?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000)
-![VSCodium](https://img.shields.io/badge/vscodium-gray?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=2F80ED)
+![Zed](https://img.shields.io/badge/zed-gray?style=for-the-badge&logo=zedindustries&logoColor=white&labelColor=084CCF)
 ![Bruno](https://img.shields.io/badge/Bruno-gray?style=for-the-badge&logo=bruno&logoColor=black&labelColor=F4AA41)
 ![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 ![Penpot](https://img.shields.io/badge/penpot-gray?style=for-the-badge&logo=penpot&logoColor=white&labelColor=000000)
