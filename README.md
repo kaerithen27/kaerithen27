@@ -69,7 +69,7 @@ Systems Architect building production-grade software that endures real-world con
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 
 - Apple (Base Ecosystem)
-- VSCodium (Nord Theme)
+- Zed (Nord Theme)
 - Bruno (API Testing)
 - DBeaver CE (DB GUI)
 - Docker (Containers)
